@@ -149,10 +149,15 @@ Votes.csv                  # Main vote records (hashed)
 ## 🚀 Possible Improvements
 
 🔹 **Deep Learning Models** – Replace KNN with **FaceNet** or **Dlib** for higher accuracy.
+
 🔹 **Database Integration** – Store votes in a **secure SQL/NoSQL database** instead of CSV.
+
 🔹 **Cross-platform TTS** – Replace `pywin32` with a platform-independent library (e.g., `pyttsx3`).
+
 🔹 **Web-based Dashboard** – Add Flask/Django backend with a live results dashboard.
+
 🔹 **Liveness Detection** – Prevent spoofing with photos/videos by adding eye-blink or 3D depth checks.
+
 🔹 **Blockchain-based Voting** – For maximum transparency and tamper-proof records.
 
 ---
@@ -197,6 +202,7 @@ If you’d like to suggest new features or report bugs, open an issue.
 ## 🏆 License
 
 This project is licensed under the **MIT License** – free to use and modify.
+
 
 
 
