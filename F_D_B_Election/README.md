@@ -181,7 +181,8 @@ pip install -r requirements.txt
 
 ## 📸 Demo (Optional)
 
-*Add screenshots or GIFs of the face detection and voting process here.*
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/4ea528fa-fc76-490f-bd78-f175fe8d5c6c" />
+
 
 ---
 
@@ -202,6 +203,7 @@ If you’d like to suggest new features or report bugs, open an issue.
 ## 🏆 License
 
 This project is licensed under the **MIT License** – free to use and modify.
+
 
 
 
