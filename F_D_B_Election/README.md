@@ -37,8 +37,8 @@ Votes.csv                  # Main vote records (hashed)
 ## ⚙️ Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/mohitscodiclab/face-voting-system.git
+   ```bash[
+   https://github.com/Mohitscodiclab/ML_Projects/tree/main/F_D_B_Election
    cd face-voting-system
 ``
 
@@ -197,5 +197,6 @@ If you’d like to suggest new features or report bugs, open an issue.
 ## 🏆 License
 
 This project is licensed under the **MIT License** – free to use and modify.
+
 
 
