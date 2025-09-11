@@ -126,8 +126,9 @@ This project demonstrates practical applications of computer vision techniques:
 - Include sound effects for a more magical experience!
 
 ## 📸 Screenshots
+<img width="1876" height="1046" alt="Screenshot 2025-09-11 073933" src="https://github.com/user-attachments/assets/a320244e-26ed-42fa-86c4-bdeea2124f75" />
 
-*Add screenshots of the project in action here*
+
 
 ## 🤝 Contributing
 
