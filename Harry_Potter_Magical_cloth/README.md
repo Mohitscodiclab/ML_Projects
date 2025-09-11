@@ -147,7 +147,7 @@ This project was inspired by the magical world of Harry Potter. It demonstrates 
 *"Always."* - Albus Dumbledore
 
 🧙‍♂️ Mischief Managed! ✨
-```
+``
 
 ## Key Enhancements Made:
 
