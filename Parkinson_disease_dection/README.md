@@ -169,7 +169,8 @@ Prediction score: 0.8213
 Result: 🧠 Parkinson Detected
 ```
 
-![example output](https://raw.githubusercontent.com/Mohitscodiclab/ML_Projects/main/preview_parkinson.png)
+![example output]<img width="1722" height="852" alt="Screenshot 2025-11-14 000222" src="https://github.com/user-attachments/assets/12b83cfe-9f04-4802-9e2e-0852a9791980" />
+
 
 ---
 
