@@ -241,9 +241,3 @@ Always consult a **qualified healthcare professional** before taking any medical
 * **Dataset:** [UCI Machine Learning Repository – Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)
 * **Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy
 
----
-
-### 🌍 **GitHub Release**
-
-Download release version from:
-🔗 [https://github.com/mohitscodiclab/ML_Projects/releases/tag/ml](https://github.com/mohitscodiclab/ML_Projects/releases/tag/ml)
