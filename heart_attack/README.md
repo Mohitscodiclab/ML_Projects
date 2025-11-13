@@ -14,9 +14,9 @@ It consists of two main parts:
 
 1. **Model Training Script (`heart_attack_prediction.py`)**
    – Trains a neural network using the UCI Heart Disease dataset.
-2. **Prediction Script (`mini_doctor.py`)**
+2. **Prediction Script (`mini_heart_doctor.py`)**
    – Loads the trained model and allows doctors/patients to enter medical details for instant risk analysis.
-   - It is inside the doctor folder
+   
 
 ---
 
@@ -37,7 +37,7 @@ It consists of two main parts:
 Heart_Attack_Prediction/
 │
 ├── heart_attack_prediction.py        # Training the model
-├── mini_Doctor.py                    # Prediction system (user input)
+├── mini_Heart_Doctor.py                    # Prediction system (user input)
 ├── heart.csv                         # Dataset (UCI Heart Disease)
 ├── best_model.h5                     # Saved best model
 └── README.md                         # Project documentation
