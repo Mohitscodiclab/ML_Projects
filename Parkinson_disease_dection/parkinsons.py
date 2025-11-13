@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 IMG_SIZE = (128, 128)
 BATCH_SIZE = 16
 EPOCHS = 25
-MODEL_SAVE_PATH = "parkinsons_cnn_brain.h5"
+MODEL_SAVE_PATH = "PD_CNN_MODEL.h5"
 
 TRAIN_DIR = "train"   # contains yes/ and no/
 TEST_DIR = "test"     # contains yes/ and no/
